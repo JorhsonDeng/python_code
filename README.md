@@ -1,2 +1,2 @@
 # python_code
-python基本代码联系库
+python基本代码练习库
