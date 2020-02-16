@@ -1,3 +1,5 @@
+#!44444444444
+#!usr/bin#
 import os
 
 def disk_usage(path):
